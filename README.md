@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is a personal space for learning and practicing AI.
+
 <!--
 **blythe-bc/blythe-bc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
